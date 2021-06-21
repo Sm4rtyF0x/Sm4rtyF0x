@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in Python, C++, Java
 - 🌱 I'm currently studying in high school
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me maaksut930@gmail.com
 
